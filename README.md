@@ -3,15 +3,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchii2001" alt="ruchii2001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ruchiraedirisinghe" target="blank"><img src="https://img.shields.io/twitter/follow/@ruchiraedirisinghe?logo=twitter&style=for-the-badge" alt="@ruchiraedirisinghe" /></a> </p>
+<p align="left"> <a href="https://twitter.com/its_me_ruchii" target="blank"><img src="https://img.shields.io/twitter/follow/its_me_ruchii?logo=twitter&style=for-the-badge" alt="its_me_ruchii" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🌱 I’m currently learning **JAVA**
+
+- 📝 I regularly write articles on [ruchiraedirisinghe.tk](ruchiraedirisinghe.tk)
+
+- 💬 Ask me about **Graphic Designing**
+
+- 📫 How to reach me **ruchiedi1258@gmail.com**
+
+- ⚡ Fun fact **I am a**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ruchiraedirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ruchiraedirisinghe" height="30" width="40" /></a>
+<a href="https://twitter.com/its_me_ruchii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_me_ruchii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ruchiraedirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchiraedirisinghe" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ruchiraedirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ruchiraedirisinghe" height="30" width="40" /></a>
 <a href="https://fb.com/ruchiraedirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruchiraedirisinghe" height="30" width="40" /></a>

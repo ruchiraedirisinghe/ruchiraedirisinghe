@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruchira Edirisinghe</h1>
+### Hi there 👋, I'm Ruchira Edirisinghe!
 #### Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Associate Vice President - Department of Network & Security - NSBM | Graphic Designer | UI/UX Dev |
 ![Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Associate Vice President - Department of Network & Security - NSBM | Graphic Designer | UI/UX Dev |](https://github.com/ruchii2001/ruchii2001/blob/main/My%20Linkedin.png)
 

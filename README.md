@@ -4,8 +4,6 @@
 
 Hello I'm Ruchira Edirisinghe. Experienced Owner of Designs By RAZZ with a demonstrated history of working in the design industry. Skilled in Communication, Graphic Design, English, Computer Gaming, and Computer Security. Strong business development professional with a Bachelor of Science - BS focused in Computer Security and Network from University of Plymouth - UK. Fond of Graphic designing and UI/UX development.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=ruchii2001" alt="ruchii2001" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/its_me_ruchii" target="blank"><img src="https://img.shields.io/twitter/follow/its_me_ruchii?logo=twitter&style=for-the-badge" alt="its_me_ruchii" /></a> </p>
 
 Skills: JS / HTML / CSS
@@ -27,6 +25,7 @@ Skills: JS / HTML / CSS
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ruchiizzz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ruchiizzz" /></a></p><br><br>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=ruchii2001" alt="ruchii2001" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchii2001&show_icons=true&locale=en" alt="ruchii2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchii2001&" alt="ruchii2001" /></p>

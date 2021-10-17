@@ -31,10 +31,9 @@ Skills: JS / HTML / CSS
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ruchiizzz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ruchiizzz" /></a></p><br><br><br>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  
-    <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=ruchii2001&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="ruchii2001" /></a> </p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+  <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=ruchii2001&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="ruchii2001" /></a> </p>
 
 
 <p align="centre">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchii2001&show_icons=true&theme=tokyonight" alt="ruchii2001" /></p>

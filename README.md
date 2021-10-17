@@ -38,7 +38,7 @@ Skills: JS / HTML / CSS
 
 <img align="right" height=380 width=350 alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /></p>
 
-<br><p align="centre">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchii2001&show_icons=true&theme=tokyonight" alt="ruchii2001" /></p>
+<p align="centre">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchii2001&show_icons=true&theme=tokyonight" alt="ruchii2001" /></p>
 
 <p align="centre"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchii2001&show_icons=true&theme=tokyonight" alt="ruchii2001" /></p>
 

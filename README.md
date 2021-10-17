@@ -31,14 +31,12 @@ Skills: JS / HTML / CSS
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=ruchii2001&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="ruchii2001" /></a> </p>
-
-
-
-<p align="centre">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchii2001&show_icons=true&theme=tokyonight" alt="ruchii2001" /></p>
-
+<br>
 <div>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
+
+<p align="centre">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchii2001&show_icons=true&theme=tokyonight" alt="ruchii2001" /></p>
 
 <p align="centre"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchii2001&show_icons=true&theme=tokyonight" alt="ruchii2001" /></p>
 

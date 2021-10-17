@@ -36,6 +36,7 @@ Skills: JS / HTML / CSS
 
   <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=ruchii2001&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="ruchii2001" /></a> </p>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /></p>
 
 <p align="centre">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchii2001&show_icons=true&theme=tokyonight" alt="ruchii2001" /></p>
 

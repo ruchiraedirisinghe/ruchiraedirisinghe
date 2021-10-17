@@ -8,8 +8,6 @@ Hello I'm Ruchira Edirisinghe. Experienced Owner of Designs By RAZZ with a demon
 
 <p align="left"> <a href="https://twitter.com/its_me_ruchii" target="blank"><img src="https://img.shields.io/twitter/follow/its_me_ruchii?logo=twitter&style=for-the-badge" alt="its_me_ruchii" /></a> </p>
 
-Skills: JS / HTML / CSS
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JAVA 
 - 💬 Ask me about Graphic Designing 

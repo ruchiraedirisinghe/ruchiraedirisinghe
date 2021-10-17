@@ -30,7 +30,3 @@ Skills: JS / HTML / CSS
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchii2001&show_icons=true&locale=en" alt="ruchii2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchii2001&" alt="ruchii2001" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchii2001&show_icons=true&locale=en" alt="ruchii2001" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchii2001&" alt="ruchii2001" /></p>

@@ -14,6 +14,8 @@ Skills: JS / HTML / CSS
 - 📫 How to reach me: ruchiedi1258@gmail.com 
 - ⚡ Fun fact: I think I get emotional due to no reason. 
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   

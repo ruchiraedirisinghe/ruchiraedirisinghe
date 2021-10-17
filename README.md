@@ -28,9 +28,6 @@ Skills: JS / HTML / CSS
 <p><a href="https://www.buymeacoffee.com/ruchiizzz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ruchiizzz" /></a></p><br><br>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchii2001&show_icons=true&locale=en&layout=compact" alt="ruchii2001" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchii2001&show_icons=true&locale=en" alt="ruchii2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchii2001&" alt="ruchii2001" /></p>

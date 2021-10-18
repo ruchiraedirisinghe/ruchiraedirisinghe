@@ -8,11 +8,15 @@ Hello I'm Ruchira Edirisinghe. Experienced Owner of Designs By RAZZ with a demon
 
 <p align="left"> <a href="https://twitter.com/its_me_ruchii" target="blank"><img src="https://img.shields.io/twitter/follow/its_me_ruchii?logo=twitter&style=for-the-badge" alt="its_me_ruchii" /></a> </p>
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JAVA 
-- 💬 Ask me about Graphic Designing 
-- 📫 How to reach me: ruchiedi1258@gmail.com 
-- ⚡ Fun fact: I know it's crazy. But I love to eat more than I work. 
+- 🔭 I’m currently working on **AI & Machine Learning**
+- 🌱 I’m currently learning **JAVA & Python**
+- 👯 I’m looking to collaborate on **Creative Graphic Designing and UI designing.**
+- 🤝 I’m looking for help with **Game Development**
+- 📝 I regularly write articles on [ruchiraedirisinghe.tk](ruchiraedirisinghe.tk)
+- 💬 Ask me about **Graphic Designing**
+- 📫 How to reach me **ruchiedi1258@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dHnvl1IB9arYKeMf4hPPygkeZpl1fEOF/view?usp=sharing](https://drive.google.com/file/d/1dHnvl1IB9arYKeMf4hPPygkeZpl1fEOF/view?usp=sharing)
+- ⚡ Fun fact **I know it's crazy. But I love to eat more than I work.**
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

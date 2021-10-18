@@ -2,9 +2,10 @@
 #### Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Associate Vice President - Department of Network & Security - NSBM | Graphic Designer | UI/UX Dev |
 ![Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Associate Vice President - Department of Network & Security - NSBM | Graphic Designer | UI/UX Dev |](https://github.com/ruchii2001/ruchii2001/blob/main/My%20Linkedin.png)
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 Hello I'm Ruchira Edirisinghe. Experienced Owner of Designs By RAZZ with a demonstrated history of working in the design industry. Skilled in Communication, Graphic Design, English, Computer Gaming, and Computer Security. Strong business development professional with a Bachelor of Science - BS focused in Computer Security and Network from University of Plymouth - UK. Fond of Graphic designing and UI/UX development.
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <p align="left"> <a href="https://twitter.com/its_me_ruchii" target="blank"><img src="https://img.shields.io/twitter/follow/its_me_ruchii?logo=twitter&style=for-the-badge" alt="its_me_ruchii" /></a> </p>
 
@@ -12,7 +13,7 @@ Hello I'm Ruchira Edirisinghe. Experienced Owner of Designs By RAZZ with a demon
 - 🌱 I’m currently learning JAVA 
 - 💬 Ask me about Graphic Designing 
 - 📫 How to reach me: ruchiedi1258@gmail.com 
-- ⚡ Fun fact: I think I get emotional due to no reason. 
+- ⚡ Fun fact: I know it's crazy. But I love to eat more than I work. 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

@@ -26,6 +26,7 @@ Hello I'm Ruchira Edirisinghe. Currently woking as the Associate Vice President 
 
   <img align="right" width=455 alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /></p>
   
+  
 <a href="https://twitter.com/its_me_ruchii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_me_ruchii" height="30" width="40" /></a><a href="https://linkedin.com/in/ruchiraedirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchiraedirisinghe" height="30" width="40" /></a><a href="https://stackoverflow.com/users/ruchiraedirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ruchiraedirisinghe" height="30" width="40" /></a><a href="https://fb.com/ruchiraedirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruchiraedirisinghe" height="30" width="40" /></a><a href="https://instagram.com/ruchii_zzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruchii_zzz" height="30" width="40" /></a><a href="https://medium.com/@ruchii2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ruchii2001" height="30" width="40" /></a><a href="https://www.hackerrank.com/ruchiedi1258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ruchiedi1258" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,3 +47,4 @@ Hello I'm Ruchira Edirisinghe. Currently woking as the Associate Vice President 
 
 <img align='center' src='https://github.com/ruchii2001/ruchii2001/blob/main/Ruchira%20Resume%20Photo.png' width='1500"'>
 
+<img align="center" width=455 alt="GIF" src="https://media.giphy.com/media/WpIjh42KPontoNSF0J/giphy.gif" />

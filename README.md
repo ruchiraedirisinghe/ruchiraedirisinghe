@@ -45,3 +45,6 @@ Hello I'm Ruchira Edirisinghe. Currently woking as the Associate Vice President 
 <p align="centre"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchii2001&show_icons=true&theme=tokyonight" alt="ruchii2001" /></p>
 
 <img align='center' src='https://github.com/ruchii2001/ruchii2001/blob/main/Ruchira%20Resume%20Photo.png' width='1500"'>
+
+<img align='center' src='https://github.com/ruchii2001/ruchii2001/blob/main/Dino_non-birthday_version.gif
+' width='1000"'>

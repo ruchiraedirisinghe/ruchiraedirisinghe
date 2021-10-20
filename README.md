@@ -39,7 +39,7 @@ Hello I'm Ruchira Edirisinghe. Currently woking as the Associate Vice President 
 
   <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=ruchii2001&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="ruchii2001" /></a> </p>
 
-<img align="right" height=400 width=308 alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" height=400 width=300 alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 <p align="centre">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchii2001&show_icons=true&theme=tokyonight" alt="ruchii2001" /></p>
 

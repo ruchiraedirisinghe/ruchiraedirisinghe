@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋, I'm Ruchira Edirisinghe</h1>
 #### Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Associate Vice President - Department of Network & Security - NSBM | Graphic Designer | UI/UX Dev |
-![Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Associate Vice President - Department of Network & Security - NSBM | Graphic Designer | UI/UX Dev |](https://github.com/ruchii2001/ruchii2001/blob/main/19.%20My%20Linkedin%202.2.png)
+![Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Associate Vice President - Department of Network & Security - NSBM | Graphic Designer | UI/UX Dev |](https://github.com/ruchiraedirisinghe/ruchiraedirisinghe/blob/main/19.%20My%20Linkedin%202.2.png)
 
 Hello I'm Ruchira Edirisinghe. Currently woking as the Associate Vice President of Communication in the Department of Network & Security of NSBM and as a Council Member of the FOSS Community. Experienced Owner of Designs By RAZZ with a demonstrated history of working in the design industry. Skilled in Communication, Graphic Design, English, Computer Gaming, and Computer Security. Strong business development professional with a Bachelor of Science - BS focused in Computer Security and Network from University of Plymouth - UK. Fond of Graphic designing and UI/UX development.
 
@@ -37,12 +37,12 @@ Hello I'm Ruchira Edirisinghe. Currently woking as the Associate Vice President 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=ruchii2001&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="ruchii2001" /></a> </p>
+  <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=ruchiraedirisinghe&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="ruchiraedirisinghe" /></a> </p>
 
 <img align="right" height=400 width=300 alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-<p align="centre">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchii2001&show_icons=true&theme=tokyonight" alt="ruchii2001" /></p>
+<p align="centre">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchiraedirisinghe&show_icons=true&theme=tokyonight" alt="ruchiraedirisinghe" /></p>
 
-<p align="centre"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchii2001&show_icons=true&theme=tokyonight" alt="ruchii2001" /></p>
+<p align="centre"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchiraedirisinghe2001&show_icons=true&theme=tokyonight" alt="ruchiraedirisinghe" /></p>
 
-<img align='center' src='https://github.com/ruchii2001/ruchii2001/blob/main/Ruchira%20Resume%20Photo.png' width='1500"'>
+<img align='center' src='https://github.com/ruchiraedirisinghe/ruchiraedirisinghe/blob/main/Ruchira%20Resume%20Photo.png' width='1500"'>

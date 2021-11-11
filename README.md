@@ -43,6 +43,6 @@ Hello I'm Ruchira Edirisinghe. Currently woking as the Associate Vice President 
 
 <p align="centre">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchiraedirisinghe&show_icons=true&theme=tokyonight" alt="ruchiraedirisinghe" /></p>
 
-<p align="centre"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchiraedirisinghe2001&show_icons=true&theme=tokyonight" alt="ruchiraedirisinghe" /></p>
+<p align="centre"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchiraedirisinghe&show_icons=true&theme=tokyonight" alt="ruchiraedirisinghe" /></p>
 
 <img align='center' src='https://github.com/ruchiraedirisinghe/ruchiraedirisinghe/blob/main/Ruchira%20Resume%20Photo.png' width='1500"'>

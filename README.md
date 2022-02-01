@@ -8,10 +8,10 @@ Hello I'm Ruchira Edirisinghe. Currently woking as the Associate Vice President 
 
 <p align="left"> <a href="https://twitter.com/its_me_ruchii" target="blank"><img src="https://img.shields.io/twitter/follow/its_me_ruchii?logo=twitter&style=for-the-badge" alt="its_me_ruchii" /></a> </p>
 
-- 🔭 I’m currently working on **AI & Machine Learning**
-- 🌱 I’m currently learning **JAVA & Python**
-- 👯 I’m looking to collaborate on **Creative Graphic Designing and UI designing.**
-- 🤝 I’m looking for help with **Game Development**
+- 🔭 I’m currently working on **Network Security & UI/UX Engineering**
+- 🌱 I’m currently learning **Networking, Pen Testing & Cryptography**
+- 👯 I’m looking to collaborate on **UI/IX Projects & Networking Projects**
+- 🤝 I’m looking for help with **Penetration Testing**
 - 📝 I regularly write articles on [ruchiraedirisinghe.tk](ruchiraedirisinghe.tk)
 - 💬 Ask me about **Graphic Designing**
 - 📫 How to reach me **ruchiedi1258@gmail.com**

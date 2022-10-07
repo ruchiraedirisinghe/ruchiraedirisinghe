@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Ruchira Edirisinghe</h1>
-#### Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Associate Vice President - Department of Network & Security - NSBM | Graphic Designer | UI/UX Dev |
+#### Intern - VR Development Engineer @PEARSON | Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Graphic Designer | UI/UX Enthusiast |
 ![Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Associate Vice President - Department of Network & Security - NSBM | Graphic Designer | UI/UX Dev |](https://github.com/ruchiraedirisinghe/ruchiraedirisinghe/blob/main/19.%20My%20Linkedin%202.2.png)
 
 Hello I'm Ruchira Edirisinghe. Currently woking as the Associate Vice President of Communication in the Department of Network & Security of NSBM and as a Council Member of the FOSS Community. Experienced Owner of Designs By RAZZ with a demonstrated history of working in the design industry. Skilled in Communication, Graphic Design, English, Computer Gaming, and Computer Security. Strong business development professional with a Bachelor of Science - BS focused in Computer Security and Network from University of Plymouth - UK. Fond of Graphic designing and UI/UX development.

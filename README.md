@@ -2,19 +2,19 @@
 #### Intern - VR Development Engineer @PEARSON | Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Graphic Designer | UI/UX Enthusiast |
 ![Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Associate Vice President - Department of Network & Security - NSBM | Graphic Designer | UI/UX Dev |](https://github.com/ruchiraedirisinghe/ruchiraedirisinghe/blob/main/19.%20My%20Linkedin%202.2.png)
 
-Hello I'm Ruchira Edirisinghe. Currently woking as the Associate Vice President of Communication in the Department of Network & Security of NSBM and as a Council Member of the FOSS Community. Experienced Owner of Designs By RAZZ with a demonstrated history of working in the design industry. Skilled in Communication, Graphic Design, English, Computer Gaming, and Computer Security. Strong business development professional with a Bachelor of Science - BS focused in Computer Security and Network from University of Plymouth - UK. Fond of Graphic designing and UI/UX development.
+Hello I'm Ruchira Edirisinghe. Currently woking as an Intern - VR Development Engineer at Pearson Lanka and as a executive board Member of the FOSS Community. Experienced Owner of Designs By RAZZ with a demonstrated history of working in the design industry. Skilled in Communication, Graphic Design, English, Game development, and Computer Security. Strong business development professional with a Bachelor of Science - BS focused in Computer Security and Network from University of Plymouth - UK. Fond of Graphic designing and UI/UX development.
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <p align="left"> <a href="https://twitter.com/its_me_ruchii" target="blank"><img src="https://img.shields.io/twitter/follow/its_me_ruchii?logo=twitter&style=for-the-badge" alt="its_me_ruchii" /></a> </p>
 
-- 🔭 I’m currently working on **Network Security & UI/UX Engineering**
+- 🔭 I’m currently working on **VR Game development and engineerring**
 - 🌱 I’m currently learning **Networking, Pen Testing & Cryptography**
-- 👯 I’m looking to collaborate on **UI/IX Projects & Networking Projects**
-- 🤝 I’m looking for help with **Penetration Testing**
+- 👯 I’m looking to collaborate on **UI/IX Projects & Networking Projects and Game Development projects**
+- 🤝 I’m looking for help with **Game Development**
 - 📝 I regularly write articles on [ruchiraedirisinghe.tk](ruchiraedirisinghe.tk)
-- 💬 Ask me about **Graphic Designing**
-- 📫 How to reach me **ruchiedi1258@gmail.com**
+- 💬 Ask me about **Graphic Designing & Game Development**
+- 📫 How to reach me **ruchiraedirisinghe0@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/13GOMYFNmL5mLRMOs548xXA14YfhO-t35/view?usp=sharing](https://drive.google.com/file/d/13GOMYFNmL5mLRMOs548xXA14YfhO-t35/view?usp=sharing)
 - ⚡ Fun fact **I know it's crazy. But I love to eat more than I work.**
 
@@ -44,5 +44,3 @@ Hello I'm Ruchira Edirisinghe. Currently woking as the Associate Vice President 
 <p align="centre">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchiraedirisinghe&show_icons=true&theme=tokyonight" alt="ruchiraedirisinghe" /></p>
 
 <p align="centre"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchiraedirisinghe&show_icons=true&theme=tokyonight" alt="ruchiraedirisinghe" /></p>
-
-<img align='center' src='https://github.com/ruchiraedirisinghe/ruchiraedirisinghe/blob/main/Ruchira%20Resume%20Photo.png' width='1500"'>

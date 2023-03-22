@@ -10,7 +10,7 @@ Hello I'm Ruchira Edirisinghe. Currently woking as an Intern - VR Development En
 
 - 🔭 I’m currently working on **VR Game development and engineerring**
 - 🌱 I’m currently learning **Networking, Pen Testing & Cryptography**
-- 👯 I’m looking to collaborate on **UI/IX Projects & Networking Projects and Game Development projects**
+- 👯 I’m looking to collaborate on **UI/IX Projects and Game Development projects**
 - 🤝 I’m looking for help with **Game Development**
 - 📝 I regularly write articles on [ruchiraedirisinghe.tk](ruchiraedirisinghe.tk)
 - 💬 Ask me about **Graphic Designing & Game Development**

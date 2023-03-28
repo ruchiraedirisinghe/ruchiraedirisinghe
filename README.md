@@ -15,7 +15,7 @@ Hello I'm Ruchira Edirisinghe. Currently woking as an Intern - VR Development En
 - 📝 I regularly write articles on [ruchiraedirisinghe.tk](ruchiraedirisinghe.tk)
 - 💬 Ask me about **Graphic Designing & Game Development**
 - 📫 How to reach me **ruchiraedirisinghe0@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/13GOMYFNmL5mLRMOs548xXA14YfhO-t35/view?usp=sharing](https://drive.google.com/file/d/13GOMYFNmL5mLRMOs548xXA14YfhO-t35/view?usp=sharing)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ruchiraedirisinghe](https://www.linkedin.com/in/ruchiraedirisinghe)
 - ⚡ Fun fact **I know it's crazy. But I love to eat more than I work.**
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>

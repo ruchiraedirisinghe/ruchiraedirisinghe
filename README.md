@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Ruchira Edirisinghe</h1>
-![Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Associate Vice President - Department of Network & Security - NSBM | Graphic Designer | UI/UX Dev |](https://github.com/ruchiraedirisinghe/ruchiraedirisinghe/blob/main/BG.png)
+![Bsc.(Hons) Computer Security | Undergraduate Student | NSBM | University of Plymouth - UK | Associate Vice President - Department of Network & Security - NSBM | Graphic Designer | UI/UX Dev |](https://github.com/ruchiraedirisinghe/ruchiraedirisinghe/blob/main/new.png)
 
 <p align="center"> I am Ruchira Edirisinghe, a VR Development Engineer intern at Pearson Lanka with a passion for design and a knack for game development. With a Bachelor of Science in Computer Security and Network from the University of Plymouth and experience in the design industry, Ruchira brings a unique blend of technical expertise and creative flair to the table. Skilled in communication, graphic design, English, game scripting, 3D modeling, and computer security, Ruchira is a strong business development professional with a love for UI/UX development.  </p>
 <br>

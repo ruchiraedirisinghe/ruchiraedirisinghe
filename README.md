@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Ruchira Edirisinghe</h1>
-![UI/UX Engineer @ZUSE Technologies | AR/VR Game Developer | Bsc.(Hons) Computer Security | Undergraduate | UOP (UK)](https://github.com/ruchiraedirisinghe/ruchiraedirisinghe/blob/main/Linkedin%20Cover%20New.png)
+![UI/UX Engineer @ZUSE Technologies | AR/VR Game Developer | Bsc.(Hons) Computer Security | Undergraduate | UOP (UK)](https://github.com/ruchiraedirisinghe/ruchiraedirisinghe/blob/main/Linkedin%20Cover%20-%20Ruchira.jpeg)
 
 <p align="center"> I am Ruchira Edirisinghe, an UI/UX Engineer at ZUSE Technologies with a passion for design and a knack for game development. With a Bachelor of Science in Computer Security and Network from the University of Plymouth and experience in the design industry, I am bringing a unique blend of technical expertise and creative flair to the table. Skilled in communication, graphic design, English, game scripting, 3D modeling, and computer security, I believe I am a strong business development professional with a love for UI/UX development.  </p>
 <br>
